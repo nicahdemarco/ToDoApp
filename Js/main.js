@@ -24,7 +24,7 @@
 // Agregamos contenido al enlace
              enlace.appendChild(contenido);
 // Agregamos atributo href
-             enlace.setAttribute("href", "#") 
+             enlace.setAttribute("href", "#"); 
 // Agregamos el enlace a la nueva tarea (lista) 
              nuevaTarea.appendChild(enlace);
 // Agregamos la nueva tarea a la lista 
